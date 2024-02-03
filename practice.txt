@@ -1,2 +1,3 @@
 practice rebase stash
 git pull --rebase
+make branch
