@@ -1,1 +1,2 @@
 practice rebase stash
+git pull --rebase
