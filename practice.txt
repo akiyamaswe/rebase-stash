@@ -2,3 +2,4 @@ practice rebase stash
 git pull --rebase
 make branch
 add massage
+try stash
